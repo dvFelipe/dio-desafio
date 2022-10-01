@@ -1,0 +1,3 @@
+​	Conheci a DIO em 2021, até então eu tinha apenas curiosidades sobre programação. Com pesquisas e vídeos aprendi um pouco sobre HTML, mas nunca cheguei a concluir um curso por vários motivos, desanimo as vezes, a falta de continuidade por achar que o conteúdo era muito complexo. Mas quando comecei a fazer o Bootcamp da DIO eu comecei a me sentir mais no caminho certo, pois as aulas não são avulsas, começar pegando conceitos básicos mudou a minha forma de olhar os códigos, começo a perceber as semelhanças e particularidades de cada um.
+
+​	Os cursos de Introdução à Programação e Pensamento Computacional e Introdução ao Git/GitHub foram maravilhosos. Me senti em um novo universo, podendo entender como funciona tudo isso e a facilidade de ligar uma coisa a outra.
