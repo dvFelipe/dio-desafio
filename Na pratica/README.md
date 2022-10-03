@@ -1,10 +1,16 @@
 # Prática das aulas
 
-Nesta pasta irei colocar as aulas práticas de cada curso e modulo.
+Nesta pasta irei colocar as aulas práticas de cada curso.
 
-Seguindo o seguinte formato:
+**Formato**:
 
-As pastas serão o nome do curso e módulos e o conteúdo das pastas serão as práticas aplicadas.
+​	:open_file_folder: :arrow_down_small: Curso :books:
 
+​		:open_file_folder:  :arrow_down_small: Módulo 
 
+​			:open_file_folder:  :arrow_down_small: Aula
+
+​				:file_cabinet: Arquivos
+
+​					...
 

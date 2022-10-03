@@ -1,0 +1,30 @@
+D:\Workspace\Projetos\Usando a Classe\bin\Debug\net6.0\Usando a Classe.exe
+D:\Workspace\Projetos\Usando a Classe\bin\Debug\net6.0\Usando a Classe.deps.json
+D:\Workspace\Projetos\Usando a Classe\bin\Debug\net6.0\Usando a Classe.runtimeconfig.json
+D:\Workspace\Projetos\Usando a Classe\bin\Debug\net6.0\Usando a Classe.dll
+D:\Workspace\Projetos\Usando a Classe\bin\Debug\net6.0\Usando a Classe.pdb
+D:\Workspace\Projetos\Usando a Classe\obj\Debug\net6.0\Usando a Classe.csproj.AssemblyReference.cache
+D:\Workspace\Projetos\Usando a Classe\obj\Debug\net6.0\Usando a Classe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Projetos\Usando a Classe\obj\Debug\net6.0\Usando a Classe.AssemblyInfoInputs.cache
+D:\Workspace\Projetos\Usando a Classe\obj\Debug\net6.0\Usando a Classe.AssemblyInfo.cs
+D:\Workspace\Projetos\Usando a Classe\obj\Debug\net6.0\Usando a Classe.csproj.CoreCompileInputs.cache
+D:\Workspace\Projetos\Usando a Classe\obj\Debug\net6.0\Usando a Classe.dll
+D:\Workspace\Projetos\Usando a Classe\obj\Debug\net6.0\refint\Usando a Classe.dll
+D:\Workspace\Projetos\Usando a Classe\obj\Debug\net6.0\Usando a Classe.pdb
+D:\Workspace\Projetos\Usando a Classe\obj\Debug\net6.0\Usando a Classe.genruntimeconfig.cache
+D:\Workspace\Projetos\Usando a Classe\obj\Debug\net6.0\ref\Usando a Classe.dll
+D:\Workspace\dio-desafio\Na pratica\Sintaxe e Tipos de Dados em C#\Tipos de Dados\bin\Debug\net6.0\Usando a Classe.exe
+D:\Workspace\dio-desafio\Na pratica\Sintaxe e Tipos de Dados em C#\Tipos de Dados\bin\Debug\net6.0\Usando a Classe.deps.json
+D:\Workspace\dio-desafio\Na pratica\Sintaxe e Tipos de Dados em C#\Tipos de Dados\bin\Debug\net6.0\Usando a Classe.runtimeconfig.json
+D:\Workspace\dio-desafio\Na pratica\Sintaxe e Tipos de Dados em C#\Tipos de Dados\bin\Debug\net6.0\Usando a Classe.dll
+D:\Workspace\dio-desafio\Na pratica\Sintaxe e Tipos de Dados em C#\Tipos de Dados\bin\Debug\net6.0\Usando a Classe.pdb
+D:\Workspace\dio-desafio\Na pratica\Sintaxe e Tipos de Dados em C#\Tipos de Dados\obj\Debug\net6.0\Usando a Classe.csproj.AssemblyReference.cache
+D:\Workspace\dio-desafio\Na pratica\Sintaxe e Tipos de Dados em C#\Tipos de Dados\obj\Debug\net6.0\Usando a Classe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\dio-desafio\Na pratica\Sintaxe e Tipos de Dados em C#\Tipos de Dados\obj\Debug\net6.0\Usando a Classe.AssemblyInfoInputs.cache
+D:\Workspace\dio-desafio\Na pratica\Sintaxe e Tipos de Dados em C#\Tipos de Dados\obj\Debug\net6.0\Usando a Classe.AssemblyInfo.cs
+D:\Workspace\dio-desafio\Na pratica\Sintaxe e Tipos de Dados em C#\Tipos de Dados\obj\Debug\net6.0\Usando a Classe.csproj.CoreCompileInputs.cache
+D:\Workspace\dio-desafio\Na pratica\Sintaxe e Tipos de Dados em C#\Tipos de Dados\obj\Debug\net6.0\Usando a Classe.dll
+D:\Workspace\dio-desafio\Na pratica\Sintaxe e Tipos de Dados em C#\Tipos de Dados\obj\Debug\net6.0\refint\Usando a Classe.dll
+D:\Workspace\dio-desafio\Na pratica\Sintaxe e Tipos de Dados em C#\Tipos de Dados\obj\Debug\net6.0\Usando a Classe.pdb
+D:\Workspace\dio-desafio\Na pratica\Sintaxe e Tipos de Dados em C#\Tipos de Dados\obj\Debug\net6.0\Usando a Classe.genruntimeconfig.cache
+D:\Workspace\dio-desafio\Na pratica\Sintaxe e Tipos de Dados em C#\Tipos de Dados\obj\Debug\net6.0\ref\Usando a Classe.dll
