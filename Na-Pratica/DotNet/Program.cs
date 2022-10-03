@@ -1,5 +1,6 @@
 ﻿using Usando_a_Classe.Models;
 
+//Convertendo de Maneira Segura | Aula 8
 string a = "15-";
 int b = 0;
 
@@ -7,10 +8,6 @@ int.TryParse(a, out b);
 
 Console.WriteLine(b);
 Console.WriteLine("Convertido com sucesso!");
-
-
-
-
 
 
 
