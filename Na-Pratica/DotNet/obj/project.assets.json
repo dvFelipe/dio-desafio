@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\dio-desafio\\Na pratica\\DotNet\\Usando a Classe.csproj",
+      "projectUniqueName": "D:\\Workspace\\dio-desafio\\Na-Pratica\\DotNet\\Usando a Classe.csproj",
       "projectName": "Usando a Classe",
-      "projectPath": "D:\\Workspace\\dio-desafio\\Na pratica\\DotNet\\Usando a Classe.csproj",
+      "projectPath": "D:\\Workspace\\dio-desafio\\Na-Pratica\\DotNet\\Usando a Classe.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\dio-desafio\\Na pratica\\DotNet\\obj\\",
+      "outputPath": "D:\\Workspace\\dio-desafio\\Na-Pratica\\DotNet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config"
