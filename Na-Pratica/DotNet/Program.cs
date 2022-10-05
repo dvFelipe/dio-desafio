@@ -1,14 +1,60 @@
 ﻿using Usando_a_Classe.Models;
 
-//Operador NOT na prática | Aula 6 | Operadores Lógicos
-bool choveu = false;
-bool estaTarde = false;
+//Calculando Raiz Quadrada | Aula 6 | Operadores Aritméticos
+Calculadora calc = new Calculadora();
 
-if (!choveu && !estaTarde){
-    Console.WriteLine("Vou pedalar!");
-}else {
-    Console.WriteLine("Vou pedalar outro dia!");
-}
+calc.RaizQuadrada(9);
+
+
+
+///////////////////////////////////////////////////////////////////
+//Incremento e Decremento | Aula 5 | Operadores Aritméticos
+// int numeroIncremento = 10;
+
+// Console.WriteLine(numeroIncremento);
+
+// Console.WriteLine("Incrementando o 10");
+// //numero = numero + 1;
+// numeroIncremento++;
+
+// int numeroDecremento = 20;
+
+// Console.WriteLine("Decrementando o 10");
+// numeroDecremento--;
+
+// Console.WriteLine(numeroDecremento);
+
+
+
+//////////////////////////////////////////////////////////////////////
+//Funções Trigonométricas | Aula 4 | Operadores Aritméticos 
+// Calculadora calc = new Calculadora();
+// calc.Seno(30);
+// calc.Coseno(30);
+// calc.Tangente(30);
+
+
+//Criando a nossa classe Calculadora | aula 1 | Operadores Aritméticos
+//Calculadora calc = new Calculadora();
+
+// calc.Somar(10, 30);
+// calc.Subtrair(10, 50);
+// calc.Multiplicar(15, 45);
+// calc.Dividir(2, 2);
+
+// calc.Potencia(3, 3);
+
+
+//////////////////////////////////////////////////////////
+//Operador NOT na prática | Aula 6 | Operadores Lógicos
+// bool choveu = false;
+// bool estaTarde = false;
+
+// if (!choveu && !estaTarde){
+//     Console.WriteLine("Vou pedalar!");
+// }else {
+//     Console.WriteLine("Vou pedalar outro dia!");
+// }
 
 
 
