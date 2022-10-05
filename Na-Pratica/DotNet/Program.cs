@@ -1,28 +1,64 @@
 ﻿using Usando_a_Classe.Models;
 
+//Operador NOT na prática | Aula 6 | Operadores Lógicos
+bool choveu = false;
+bool estaTarde = false;
+
+if (!choveu && !estaTarde){
+    Console.WriteLine("Vou pedalar!");
+}else {
+    Console.WriteLine("Vou pedalar outro dia!");
+}
+
+
+
+//Operador AND na prática | Aula 4 | Operadores lógicos 
+// bool possuiPresencaMinima = false;
+// double media = 7.5;
+
+// if (possuiPresencaMinima && media >= 7){
+//     Console.WriteLine("Aprovado!");
+// }else {
+//     Console.WriteLine("Reprovado!");
+// }
+
+
+
+//Operador OR na prática | Aula 2 | Operadores lógicos
+// bool ehMaiorDeIdade = false;
+// bool possuiAutorizacaoDoResponsavel = false;
+
+// if (ehMaiorDeIdade || possuiAutorizacaoDoResponsavel)
+// {
+//     Console.WriteLine("Entrada liberada!");
+// }
+// else 
+// {
+//     Console.WriteLine("Entrada não liberada!");
+// }
 
 
 
 //////////////////////////////////////////////////////
 // Aprendendo o switch case | Aula 5 | Operadores Condicionais
-Console.WriteLine("Digite uma letra");
-string? letra = Console.ReadLine();
+// Console.WriteLine("Digite uma letra");
+// string? letra = Console.ReadLine();
 
 
-switch (letra)
-{
-    case "a":
-    case "e":
-    case "i":
-    case "o":
-    case "u":
-        Console.WriteLine("Vogal");
-        break;
+// switch (letra)
+// {
+//     case "a":
+//     case "e":
+//     case "i":
+//     case "o":
+//     case "u":
+//         Console.WriteLine("Vogal");
+//         break;
 
-    default:
-        Console.WriteLine("Não é uma vogal");
-        break;
-}
+//     default:
+//         Console.WriteLine("Não é uma vogal");
+//         break;
+// }
 
 
 
