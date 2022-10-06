@@ -1,9 +1,163 @@
 ﻿using Usando_a_Classe.Models;
 
-//Calculando Raiz Quadrada | Aula 6 | Operadores Aritméticos
-Calculadora calc = new Calculadora();
+//////////////////////////////////////////////////////////
+//Refatorando o menu | Aula 10 | Estruturas de Repetição
+string? opcao;
+bool exibirMenu = true;
 
-calc.RaizQuadrada(9);
+while(exibirMenu)
+{
+    Console.Clear();
+    Console.WriteLine("Digite a sua opção:");
+    Console.WriteLine("1 - Cadastrar cliente");
+    Console.WriteLine("2 - Buscar cliente");
+    Console.WriteLine("3 - Apagar cliente");
+    Console.WriteLine("4 - Encerrar");
+
+    opcao = Console.ReadLine();
+
+    switch(opcao)
+    {
+        case "1":
+            Console.WriteLine("Cadastro de cliente");
+            break;
+
+        case "2": 
+            Console.WriteLine("Busca de cliente");
+            break;
+
+        case "3": 
+            Console.WriteLine("Apagar cliente");
+            break;
+
+        case "4": 
+            Console.WriteLine("Encerrar");
+            exibirMenu = false;
+            //Environment.Exit(0);
+            break;
+
+        default:
+            Console.WriteLine("Opção inválida");
+            break;
+    }
+}
+
+Console.WriteLine("O programa se encerrou!");
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////////
+//Construindo um menu interativo | Aula 9 | Estruturas de Repetição
+// string? opcao;
+
+// while(true)
+// {
+//     Console.Clear();
+//     Console.WriteLine("Digite a sua opção:");
+//     Console.WriteLine("1 - Cadastrar cliente");
+//     Console.WriteLine("2 - Buscar cliente");
+//     Console.WriteLine("3 - Apagar cliente");
+//     Console.WriteLine("4 - Encerrar");
+
+//     opcao = Console.ReadLine();
+
+//     switch(opcao)
+//     {
+//         case "1":
+//             Console.WriteLine("Cadastro de cliente");
+//             break;
+
+//         case "2": 
+//             Console.WriteLine("Busca de cliente");
+//             break;
+
+//         case "3": 
+//             Console.WriteLine("Apagar cliente");
+//             break;
+
+//         case "4": 
+//             Console.WriteLine("Encerrar");
+//             Environment.Exit(0);
+//             break;
+
+//         default:
+//             Console.WriteLine("Opção inválida");
+//             break;
+//     }
+// }
+
+
+
+
+
+//Introdução ao DO WHILE | Aula 7 | Estruturas de Repetição
+// int soma = 0, numero = 0;
+
+// do 
+// {
+//     Console.WriteLine("Digite um número (0 para parar)");
+//     numero = Convert.ToInt32(Console.ReadLine());
+
+//     soma += numero;
+    
+// } while(numero != 0);
+
+// Console.WriteLine($"Total de soma dos números digitados é: {soma}");
+
+
+
+
+///////////////////////////////////////////////////////////////////////
+//Interrompendo o fluxo de execução | Aula 6 | Estruturas de Repetição
+// int numero = 5;
+// int contador = 0;
+
+// while (contador <= 10)
+// {
+//     Console.WriteLine($"{contador + 1}° Execução: {numero} x {contador} = {numero * contador}");
+//     contador++;
+    
+// if (contador == 5)
+//     {
+//         break;
+//     }
+// }
+
+
+
+
+/////////////////////////////////////////////////////////
+//Introdução ao WHILE | Aula 4 | Estruturas de repetição
+//  int numero = 5;
+//  int contador = 0;
+
+//  while (contador <= 10)
+//  {
+//      Console.WriteLine($"{contador + 1}° Execução: {numero} x {contador} = {numero * contador}");
+//      contador++;
+    
+//  }
+
+////////////////////////////////////////////////////
+//Introdução ao FOR | Aula 2 | Estruturas de repetição
+// int numero = 5;
+
+// for(int contador = 0; contador <= 10; contador++)
+// {
+//     Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+// }
+
+
+
+
+////////////////////////////////////////////////////////////////
+//Calculando Raiz Quadrada | Aula 6 | Operadores Aritméticos
+// Calculadora calc = new Calculadora();
+
+// calc.RaizQuadrada(9);
 
 
 
