@@ -1,6 +1,171 @@
 ﻿using ExemploFundamentos.Common.Models;
 
-Pessoa pessoa1 = new Pessoa();
+//Trabalhando com listas | Aula 8 | Array e Listas
+List<string> listaString = new List<string>();
+
+listaString.Add("SP");
+listaString.Add("BA");
+listaString.Add("MG");
+listaString.Add("RJ");
+
+
+Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade : {listaString.Capacity}");
+
+listaString.Add("SC");
+
+Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade : {listaString.Capacity}");
+
+listaString.Remove("MG");
+
+Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade : {listaString.Capacity}");
+
+
+
+
+
+
+
+
+
+// Console.WriteLine("Percorrendo a lista pelo FOR");
+// for(int contador = 0; contador < listaString.Count; contador ++)
+// {
+//     Console.WriteLine($"Posição N° {contador} - {listaString[contador]}");
+// }
+
+// Console.WriteLine("Percorrendo a lista pelo FOREACH");
+// int contadorForeach = 0;
+// foreach(string item in listaString)
+// {
+//     Console.WriteLine($"Posição N° {contadorForeach} - {item}");
+//     contadorForeach++;
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Copiando um Array para outro | Aula 7 | Array e Listas
+// int[] arrayInteiros = new int[4];
+
+// arrayInteiros[0] = 72;
+// arrayInteiros[1] = 64;
+// arrayInteiros[2] = 50;
+// arrayInteiros[3] = 1;
+
+// int[] arrayInteirosDobrado = new int[arrayInteiros.Length * 2];
+// Array.Copy(arrayInteiros, arrayInteirosDobrado, arrayInteiros.Length);
+
+
+
+
+// //Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);
+
+
+
+//     Console.WriteLine("Percorrendo o array com FOR");
+// for(int contador = 0; contador < arrayInteiros.Length; contador++)
+// {
+//     Console.WriteLine($"Posição N° {contador} - {arrayInteiros[contador]}");
+// }
+
+
+
+//Redimensionando um Array | Aula 6 | Array e Listas 
+// int[] arrayInteiros = new int[4];
+
+// arrayInteiros[0] = 72;
+// arrayInteiros[1] = 64;
+// arrayInteiros[2] = 50;
+// arrayInteiros[3] = 1;
+
+
+// Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);
+
+
+
+//     Console.WriteLine("Percorrendo o array com FOR");
+// for(int contador = 0; contador < arrayInteiros.Length; contador++)
+// {
+//     Console.WriteLine($"Posição N° {contador} - {arrayInteiros[contador]}");
+// }
+
+
+
+
+//Percorrendo um array com FOREACH | Aula 4 | Array e Listas
+// int[] arrayInteiros = new int[4];
+
+// arrayInteiros[0] = 72;
+// arrayInteiros[1] = 64;
+// arrayInteiros[2] = 50;
+// arrayInteiros[3] = 1;
+
+//     Console.WriteLine("Percorrendo o array com FOR");
+
+// for(int contador = 0; contador < arrayInteiros.Length; contador++)
+// {
+//     Console.WriteLine($"Posição N° {contador} - {arrayInteiros[contador]}");
+// }
+
+//     Console.WriteLine("Percorrendo o array com FOREACH");
+    
+// int contadorForeach = 0;
+// foreach(int valor in arrayInteiros)
+// {
+//     Console.WriteLine($"Posição N° {contadorForeach} - {valor}");
+//     contadorForeach++;
+// }
+
+
+
+
+
+//Acessando um índice inválido | Aula 3 | Array e Listas
+// int[] arrayInteiros = new int[3];
+
+// arrayInteiros[0] = 72;
+// arrayInteiros[1] = 64;
+// arrayInteiros[2] = 50;
+// arrayInteiros[3] = 1;
+
+// for(int contador = 0; contador < arrayInteiros.Length; contador++)
+// {
+//     Console.WriteLine($"Posição N° {contador} - {arrayInteiros[contador]}");
+// }
+
+
+
+
+
+//Implementando um array de inteiros | Aula 2 | Array e Listas
+// int[] arrayInteiros = new int[3];
+
+// arrayInteiros[0] = 72;
+// arrayInteiros[1] = 64;
+// arrayInteiros[2] = 50;
+// //arrayInteiros[3] = 1;
+
+// for(int contador = 0; contador < arrayInteiros.Length; contador++)
+// {
+//     Console.WriteLine($"Posição N° {contador} - {arrayInteiros[contador]}");
+// }
+
+
+
+//Pessoa pessoa1 = new Pessoa();
 
 
 //////////////////////////////////////////////////////////
